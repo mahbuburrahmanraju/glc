@@ -6,6 +6,5 @@
     {
         "question": "Which language is spoken in Brazil?",
         "answer": "Portuguese"
-    },
-    // Add more questions here
+    }
 ]
