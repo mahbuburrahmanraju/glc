@@ -1,1 +1,1002 @@
-[{"Present":"Do","Past":"Did","PastParticiple":"Done"},{"Present":"Go","Past":"Went","PastParticiple":"Gone"},{"Present":"Come","Past":"Came","PastParticiple":"Come"},{"Present":"Drink","Past":"Drank","PastParticiple":"Drunk"},{"Present":"Eat","Past":"Ate","PastParticiple":"Eaten"},{"Present":"Read","Past":"Read","PastParticiple":"Read"},{"Present":"Play","Past":"Played","PastParticiple":"Played"},{"Present":"Sing","Past":"Sang","PastParticiple":"Sung"},{"Present":"Write","Past":"Wrote","PastParticiple":"Written"},{"Present":"Give","Past":"Gave","PastParticiple":"Given"},{"Present":"Help","Past":"Helped","PastParticiple":"Helped"},{"Present":"Keep","Past":"Kept","PastParticiple":"Kept"},{"Present":"Know","Past":"Knew","PastParticiple":"Known"},{"Present":"Run","Past":"Ran","PastParticiple":"Run"},{"Present":"Choose","Past":"Chose","PastParticiple":"Chosen"},{"Present":"Work","Past":"Worked","PastParticiple":"Worked"},{"Present":"Draw","Past":"Drew","PastParticiple":"Drawn"},{"Present":"Lie","Past":"Lay","PastParticiple":"Lain"},{"Present":"Sit","Past":"Sat","PastParticiple":"Sat"},{"Present":"Speak","Past":"Spoke","PastParticiple":"Spoken"},{"Present":"Drive","Past":"Drove","PastParticiple":"Driven"},{"Present":"Steal","Past":"Stole","PastParticiple":"Stolen"},{"Present":"Tell","Past":"Told","PastParticiple":"Told"},{"Present":"Talk","Past":"Talked","PastParticiple":"Talked"},{"Present":"Say","Past":"Said","PastParticiple":"Said"},{"Present":"Lay","Past":"Laid","PastParticiple":"Laid"},{"Present":"Pay","Past":"Paid","PastParticiple":"Paid"},{"Present":"Sleep","Past":"Slept","PastParticiple":"Slept"},{"Present":"Swim","Past":"Swam","PastParticiple":"Swum"},{"Present":"Cook","Past":"Cooked","PastParticiple":"Cooked"},{"Present":"Take","Past":"Took","PastParticiple":"Taken"},{"Present":"Bring","Past":"Brought","PastParticiple":"Brought"},{"Present":"Buy","Past":"Bought","PastParticiple":"Bought"},{"Present":"Catch","Past":"Caught","PastParticiple":"Caught"},{"Present":"Teach","Past":"Taught","PastParticiple":"Taught"},{"Present":"Think","Past":"","PastParticiple":"Thought"},{"Present":"Fight","Past":"Fought","PastParticiple":"Fought"},{"Present":"Try","Past":"Tried","PastParticiple":"Tried"},{"Present":"Cry","Past":"Cried","PastParticiple":"Cried"},{"Present":"Fry","Past":"Fried","PastParticiple":"Fried"},{"Present":"Dry","Past":"Dried","PastParticiple":"Dried"},{"Present":"Sweep","Past":"Swap","PastParticiple":"Swept"},{"Present":"Erase","Past":"Earsed","PastParticiple":"Erased"},{"Present":"Wipe","Past":"Wiped","PastParticiple":"Wiped"},{"Present":"Make","Past":"Made","PastParticiple":"Made"},{"Present":"Like","Past":"Liked","PastParticiple":"Liked"},{"Present":"Love","Past":"Loved","PastParticiple":"Loved"},{"Present":"Meet","Past":"Met","PastParticiple":"Met"},{"Present":"Feed","Past":"Fed","PastParticiple":"Fed"},{"Present":"Lead","Past":"Led","PastParticiple":"Led"},{"Present":"Feel","Past":"Felt","PastParticiple":"Felt"},{"Present":"Bleed","Past":"Bled","PastParticiple":"Bled"},{"Present":"Show","Past":"Showed","PastParticiple":"Showed"},{"Present":"Carry","Past":"Carried","PastParticiple":"Carried"},{"Present":"Bury","Past":"Buried","PastParticiple":"Buried"},{"Present":"Hurry","Past":"Hurried","PastParticiple":"Hurried"},{"Present":"Apply","Past":"Applied","PastParticiple":"Applied"},{"Present":"Justify","Past":"Justified","PastParticiple":"Justified"},{"Present":"Laugh","Past":"Laughed","PastParticiple":"Laughed"},{"Present":"Walk","Past":"Walked","PastParticiple":"Walked"},{"Present":"Call","Past":"Called","PastParticiple":"Called"},{"Present":"Cut","Past":"Cut","PastParticiple":"Cut"},{"Present":"Clean","Past":"Cleaned","PastParticiple":"Cleaned"},{"Present":"Beat","Past":"Bet","PastParticiple":"Beaten"},{"Present":"Forgive","Past":"Forgave","PastParticiple":"Forgiven"},{"Present":"Get","Past":"Got","PastParticiple":"Got\/gotten"},{"Present":"See","Past":"Saw","PastParticiple":"Seen"},{"Present":"Watch","Past":"Watched","PastParticiple":"Watched"},{"Present":"Mistake","Past":"Mistook","PastParticiple":"Mistaken"},{"Present":"Pronounce","Past":"Pronounced","PastParticiple":"Pronounced"},{"Present":"Spell","Past":"Spelled","PastParticiple":"Spelt\/spelled"},{"Present":"Win","Past":"Won","PastParticiple":"Won"},{"Present":"Ask","Past":"Asked","PastParticiple":"Asked"},{"Present":"Believe","Past":"Belived","PastParticiple":"Believed"},{"Present":"Receive","Past":"Received","PastParticiple":"Received"},{"Present":"Dance","Past":"Danced","PastParticiple":"Danced"},{"Present":"Die","Past":"Died","PastParticiple":"Died"},{"Present":"Enjoy","Past":"Enjoyed","PastParticiple":"Enjoyed"},{"Present":"Hear","Past":"Heard","PastParticiple":"Heard"},{"Present":"Kill","Past":"Killed","PastParticiple":"Killed"},{"Present":"Listen","Past":"Listened","PastParticiple":"Listened"},{"Present":"Look","Past":"Looked","PastParticiple":"Looked"},{"Present":"Lose","Past":"Lost","PastParticiple":"Lost"},{"Present":"Sell","Past":"Sold","PastParticiple":"Sold"},{"Present":"Study","Past":"Studied","PastParticiple":"Studied"},{"Present":"Understand","Past":"Understood","PastParticiple":"Understood"},{"Present":"Convince","Past":"Convinced","PastParticiple":"Convinced"},{"Present":"Burst","Past":"Burst","PastParticiple":"Burst"},{"Present":"Accept","Past":"Acceptef","PastParticiple":"Accepted"},{"Present":"Advise","Past":"Advised","PastParticiple":"Advised"},{"Present":"Advertise","Past":"Advertised","PastParticiple":"Advertised"},{"Present":"Become","Past":"Became","PastParticiple":"Become"},{"Present":"Blame","Past":"Blamed","PastParticiple":"Blamed"},{"Present":"Backbite","Past":"Backbit","PastParticiple":"Backbitten"},{"Present":"Disturb","Past":"Disturbed","PastParticiple":"Disturbed"},{"Present":"Collect","Past":"Collected","PastParticiple":"Collected"},{"Present":"Control","Past":"Vontrolled","PastParticiple":"Controlled"},{"Present":"Criticise","Past":"Criticised","PastParticiple":"Criticised"},{"Present":"Consider","Past":"Considerd","PastParticiple":"Considered"},{"Present":"Discuss","Past":"Discussed","PastParticiple":"Discussed"},{"Present":"Divorce","Past":"Divorced","PastParticiple":"Divorced"},{"Present":"Debate","Past":"Debated","PastParticiple":"Debated"},{"Present":"Exercise","Past":"Excercised","PastParticiple":"Exercised"},{"Present":"Practice","Past":"Practiced","PastParticiple":"Practiced"},{"Present":"Embrace","Past":"Embraced","PastParticiple":"Embraced"},{"Present":"Emphasise","Past":"Emphasised","PastParticiple":"Emphasised"},{"Present":"Force","Past":"Forced","PastParticiple":"Forced"},{"Present":"Escape","Past":"Escaped","PastParticiple":"Escaped"},{"Present":"Fly","Past":"Flow","PastParticiple":"Flown"},{"Present":"Foster","Past":"Fostered","PastParticiple":"Fostered"},{"Present":"Care","Past":"Cared","PastParticiple":"Cared"},{"Present":"Finish","Past":"Finished","PastParticiple":"Finished"},{"Present":"Gift","Past":"Gifted","PastParticiple":"Gifted"},{"Present":"Guide","Past":"Guided","PastParticiple":"Guided"},{"Present":"Grant","Past":"Granted","PastParticiple":"Granted"},{"Present":"Harm","Past":"Harmed","PastParticiple":"Harmed"},{"Present":"Hate","Past":"Hated","PastParticiple":"Hated"},{"Present":"Hold","Past":"Held","PastParticiple":"Held"},{"Present":"Inform","Past":"Imformed","PastParticiple":"Informed"},{"Present":"Insult","Past":"Insuletd","PastParticiple":"Insulted"},{"Present":"Invite","Past":"Invited","PastParticiple":"Invited"},{"Present":"Ignore","Past":"Ignored","PastParticiple":"Ignored"},{"Present":"Neglect","Past":"Neglected","PastParticiple":"Neglected"},{"Present":"Avoid","Past":"Avoided","PastParticiple":"Avoided"},{"Present":"Increase","Past":"Increased","PastParticiple":"Increased"},{"Present":"Inspire","Past":"Inspired","PastParticiple":"Inspired"},{"Present":"Identify","Past":"Identified","PastParticiple":"Identified"},{"Present":"Itch","Past":"Itched","PastParticiple":"Itched"},{"Present":"Join","Past":"Joined","PastParticiple":"Joined"},{"Present":"Judge","Past":"Judged","PastParticiple":"Judged"},{"Present":"Kick","Past":"Kicked","PastParticiple":"Kicked"},{"Present":"Kiss","Past":"Kissed","PastParticiple":"Kissed"},{"Present":"Knock","Past":"Knocked","PastParticiple":"Knocked"},{"Present":"Depend","Past":"Depended","PastParticiple":"Depended"},{"Present":"Donate","Past":"Donated","PastParticiple":"Donated"},{"Present":"Expect","Past":"Expected","PastParticiple":"Expected"},{"Present":"Follow","Past":"Followed","PastParticiple":"Followed"},{"Present":"Gossip","Past":"Gossiped","PastParticiple":"Gossiped"},{"Present":"Govern","Past":"Governed","PastParticiple":"Governed"},{"Present":"Guard","Past":"Guarded","PastParticiple":"Guarded"},{"Present":"Graze","Past":"Grazed","PastParticiple":"Grazed"},{"Present":"Hope","Past":"Hoped","PastParticiple":"Hoped"},{"Present":"Hesitate","Past":"Hesitated","PastParticiple":"Hesitated"},{"Present":"Hire","Past":"Hired","PastParticiple":"Hired"},{"Present":"Hide","Past":"Hidden","PastParticiple":"Hidden"},{"Present":"Improve","Past":"Improved","PastParticiple":"Improved"},{"Present":"Imagine","Past":"Imagined","PastParticiple":"Imagined"},{"Present":"Inject","Past":"Injacted","PastParticiple":"Injected"},{"Present":"Investigate","Past":"Invastigated","PastParticiple":"Investigated"},{"Present":"Involve","Past":"Involved","PastParticiple":"Involved"},{"Present":"Brush","Past":"Brushed","PastParticiple":"Brushed"},{"Present":"Learn","Past":"Learned","PastParticiple":"Learnt\/learned"},{"Present":"Maintain","Past":"Maintained","PastParticiple":"Maintained"},{"Present":"Memorise","Past":"Memorised","PastParticiple":"Memorised"},{"Present":"Misbehave", "Past":"Misbehaved","PastParticiple":"Misbehaved"},{"Present":"Manage","Past":"Managed","PastParticiple":"Managed"},{"Present":"Mix","Past":"Mixed","PastParticiple":"Mixed"},{"Present":"Need","Past":"Needed","PastParticiple":"Needed"},{"Present":"Notice","Past":"Noticed","PastParticiple":"Noticed"},{"Present":"Open","Past":"Opened","PastParticiple":"Opened"},{"Present":"Close","Past":"Closed","PastParticiple":"Closed"},{"Present":"Lock","Past":"Locked","PastParticiple":"Locked"},{"Present":"Unlock","Past":"Unlocked","PastParticiple":"Unlocked"},{"Present":"Plan","Past":"Planed","PastParticiple":"Planned"},{"Present":"Pray","Past":"Prayed","PastParticiple":"Prayed"},{"Present":"Punish","Past":"Punished","PastParticiple":"Punished"},{"Present":"Push","Past":"Pushed","PastParticiple":"Pushed"},{"Present":"Pull","Past":"Pulled","PastParticiple":"Pulled"},{"Present":"Pain","Past":"Pained","PastParticiple":"Pained"},{"Present":"Quarrel","Past":"Quarreled","PastParticiple":"Quarreled"},{"Present":"Remove","Past":"Removed","PastParticiple":"Removed"},{"Present":"Behave","Past":"Behaved","PastParticiple":"Behaved"},{"Present":"Add","Past":"Added","PastParticiple":"Added"},{"Present":"Answer","Past":"Answered","PastParticiple":"Answered"},{"Present":"Build","Past":"Built","PastParticiple":"Built"},{"Present":"Agree","Past""Agreed","PastParticiple":"Agreed"},{"Present":"Boil","Past":"Boiled","PastParticiple":"Boiled"},{"Present":"Burn","Past":"Burnt\/burned","PastParticiple":"Burnt\/burned"},{"Present":"Attend","Past":"Attended","PastParticiple":"Attended"},{"Present":"Arrest","Past":"Arrested","PastParticiple":"Arrested"},{"Present":"Change","Past":"Changed","PastParticiple":"Changed"},{"Present":"Celebrate","Past":"Celebrated","PastParticiple":"Celebrated"},{"Present":"Dream","Past":"Dreamt\/dreamed","PastParticiple":"Dreamt\/dreamed"},{"Present":"Earn","Past":"Earned","PastParticiple":"Earned"},{"Present":"Remember","Past":"Remembered","PastParticiple":"Remembered"},{"Present":"Remind","Past":"Reminded","PastParticiple":"Reminded"},{"Present":"Forget","Past":"Forgot","PastParticiple":"Forgot\/forgotten"},{"Present":"Order","Past":"Ordered","PastParticiple":"Ordered"},{"Present":"Forbid","Past":"Forbade","PastParticiple":"Forbidden"},{"Present":"Gather","Past":"Gathered","PastParticiple":"Gathered"},{"Present":"Face","Past":"Faced","PastParticiple":"Faced"},{"Present":"Complete","Past":"Completed","PastParticiple":"Completed"},{"Present":"Send","Past":"Sent","PastParticiple":"Sent"},{"Present":"Spend","Past":"Spent","PastParticiple":"Spent"},{"Present":"Bend","Past":"Bent","PastParticiple":"Bent"},{"Present":"Doubt","Past":"Doubted","PastParticiple":"Doubted"},{"Present":"Cheat","Past":"Cheated","PastParticiple":"Cheated"},{"Present":"Count","Past":"Counted","PastParticiple":"Counted"},{"Present":"Demand","Past":"Demanded","PastParticiple":"Demanded"},{"Present":"Describe","Past":"Described","PastParticiple":"Described"}]
+[
+    {
+        "present": "Do",
+        "past": "Did",
+        "pastparticiple": "Done"
+    },
+    {
+        "present": "Go",
+        "past": "Went",
+        "pastparticiple": "Gone"
+    },
+    {
+        "present": "Come",
+        "past": "Came",
+        "pastparticiple": "Come"
+    },
+    {
+        "present": "Drink",
+        "past": "Drank",
+        "pastparticiple": "Drunk"
+    },
+    {
+        "present": "Eat",
+        "past": "Ate",
+        "pastparticiple": "Eaten"
+    },
+    {
+        "present": "Read",
+        "past": "Read",
+        "pastparticiple": "Read"
+    },
+    {
+        "present": "Play",
+        "past": "Played",
+        "pastparticiple": "Played"
+    },
+    {
+        "present": "Sing",
+        "past": "Sang",
+        "pastparticiple": "Sung"
+    },
+    {
+        "present": "Write",
+        "past": "Wrote",
+        "pastparticiple": "Written"
+    },
+    {
+        "present": "Give",
+        "past": "Gave",
+        "pastparticiple": "Given"
+    },
+    {
+        "present": "Help",
+        "past": "Helped",
+        "pastparticiple": "Helped"
+    },
+    {
+        "present": "Keep",
+        "past": "Kept",
+        "pastparticiple": "Kept"
+    },
+    {
+        "present": "Know",
+        "past": "Knew",
+        "pastparticiple": "Known"
+    },
+    {
+        "present": "Run",
+        "past": "Ran",
+        "pastparticiple": "Run"
+    },
+    {
+        "present": "Choose",
+        "past": "Chose",
+        "pastparticiple": "Chosen"
+    },
+    {
+        "present": "Work",
+        "past": "Worked",
+        "pastparticiple": "Worked"
+    },
+    {
+        "present": "Draw",
+        "past": "Drew",
+        "pastparticiple": "Drawn"
+    },
+    {
+        "present": "Lie",
+        "past": "Lay",
+        "pastparticiple": "Lain"
+    },
+    {
+        "present": "Sit",
+        "past": "Sat",
+        "pastparticiple": "Sat"
+    },
+    {
+        "present": "Speak",
+        "past": "Spoke",
+        "pastparticiple": "Spoken"
+    },
+    {
+        "present": "Drive",
+        "past": "Drove",
+        "pastparticiple": "Driven"
+    },
+    {
+        "present": "Steal",
+        "past": "Stole",
+        "pastparticiple": "Stolen"
+    },
+    {
+        "present": "Tell",
+        "past": "Told",
+        "pastparticiple": "Told"
+    },
+    {
+        "present": "Talk",
+        "past": "Talked",
+        "pastparticiple": "Talked"
+    },
+    {
+        "present": "Say",
+        "past": "Said",
+        "pastparticiple": "Said"
+    },
+    {
+        "present": "Lay",
+        "past": "Laid",
+        "pastparticiple": "Laid"
+    },
+    {
+        "present": "Pay",
+        "past": "Paid",
+        "pastparticiple": "Paid"
+    },
+    {
+        "present": "Sleep",
+        "past": "Slept",
+        "pastparticiple": "Slept"
+    },
+    {
+        "present": "Swim",
+        "past": "Swam",
+        "pastparticiple": "Swum"
+    },
+    {
+        "present": "Cook",
+        "past": "Cooked",
+        "pastparticiple": "Cooked"
+    },
+    {
+        "present": "Take",
+        "past": "Took",
+        "pastparticiple": "Taken"
+    },
+    {
+        "present": "Bring",
+        "past": "Brought",
+        "pastparticiple": "Brought"
+    },
+    {
+        "present": "Buy",
+        "past": "Bought",
+        "pastparticiple": "Bought"
+    },
+    {
+        "present": "Catch",
+        "past": "Caught",
+        "pastparticiple": "Caught"
+    },
+    {
+        "present": "Teach",
+        "past": "Taught",
+        "pastparticiple": "Taught"
+    },
+    {
+        "present": "Think",
+        "past": "Thought",
+        "pastparticiple": "Thought"
+    },
+    {
+        "present": "Fight",
+        "past": "Fought",
+        "pastparticiple": "Fought"
+    },
+    {
+        "present": "Try",
+        "past": "Tried",
+        "pastparticiple": "Tried"
+    },
+    {
+        "present": "Cry",
+        "past": "Cried",
+        "pastparticiple": "Cried"
+    },
+    {
+        "present": "Fry",
+        "past": "Fried",
+        "pastparticiple": "Fried"
+    },
+    {
+        "present": "Dry",
+        "past": "Dried",
+        "pastparticiple": "Dried"
+    },
+    {
+        "present": "Sweep",
+        "past": "Swept",
+        "pastparticiple": "Swept"
+    },
+    {
+        "present": "Erase",
+        "past": "Erased",
+        "pastparticiple": "Erased"
+    },
+    {
+        "present": "Wipe",
+        "past": "Wiped",
+        "pastparticiple": "Wiped"
+    },
+    {
+        "present": "Make",
+        "past": "Made",
+        "pastparticiple": "Made"
+    },
+    {
+        "present": "Like",
+        "past": "Liked",
+        "pastparticiple": "Liked"
+    },
+    {
+        "present": "Love",
+        "past": "Loved",
+        "pastparticiple": "Loved"
+    },
+    {
+        "present": "Meet",
+        "past": "Met",
+        "pastparticiple": "Met"
+    },
+    {
+        "present": "Feed",
+        "past": "Fed",
+        "pastparticiple": "Fed"
+    },
+    {
+        "present": "Lead",
+        "past": "Led",
+        "pastparticiple": "Led"
+    },
+    {
+        "present": "Feel",
+        "past": "Felt",
+        "pastparticiple": "Felt"
+    },
+    {
+        "present": "Bleed",
+        "past": "Bled",
+        "pastparticiple": "Bled"
+    },
+    {
+        "present": "Show",
+        "past": "Showed",
+        "pastparticiple": "Showed"
+    },
+    {
+        "present": "Carry",
+        "past": "Carried",
+        "pastparticiple": "Carried"
+    },
+    {
+        "present": "Bury",
+        "past": "Buried",
+        "pastparticiple": "Buried"
+    },
+    {
+        "present": "Hurry",
+        "past": "Hurried",
+        "pastparticiple": "Hurried"
+    },
+    {
+        "present": "Apply",
+        "past": "Applied",
+        "pastparticiple": "Applied"
+    },
+    {
+        "present": "Justify",
+        "past": "Justified",
+        "pastparticiple": "Justified"
+    },
+    {
+        "present": "Laugh",
+        "past": "Laughed",
+        "pastparticiple": "Laughed"
+    },
+    {
+        "present": "Walk",
+        "past": "Walked",
+        "pastparticiple": "Walked"
+    },
+    {
+        "present": "Call",
+        "past": "Called",
+        "pastparticiple": "Called"
+    },
+    {
+        "present": "Cut",
+        "past": "Cut",
+        "pastparticiple": "Cut"
+    },
+    {
+        "present": "Clean",
+        "past": "Cleaned",
+        "pastparticiple": "Cleaned"
+    },
+    {
+        "present": "Beat",
+        "past": "Beat",
+        "pastparticiple": "Beaten"
+    },
+    {
+        "present": "Forgive",
+        "past": "Forgave",
+        "pastparticiple": "Forgiven"
+    },
+    {
+        "present": "Get",
+        "past": "Got",
+        "pastparticiple": "Got/gotten"
+    },
+    {
+        "present": "See",
+        "past": "Saw",
+        "pastparticiple": "Seen"
+    },
+    {
+        "present": "Watch",
+        "past": "Watched",
+        "pastparticiple": "Watched"
+    },
+    {
+        "present": "Mistake",
+        "past": "Mistook",
+        "pastparticiple": "Mistaken"
+    },
+    {
+        "present": "Pronounce",
+        "past": "Pronounced",
+        "pastparticiple": "Pronounced"
+    },
+    {
+        "present": "Spell",
+        "past": "Spelt/spelled",
+        "pastparticiple": "Spelt/spelled"
+    },
+    {
+        "present": "Win",
+        "past": "Won",
+        "pastparticiple": "Won"
+    },
+    {
+        "present": "Ask",
+        "past": "Asked",
+        "pastparticiple": "Asked"
+    },
+    {
+        "present": "Believe",
+        "past": "Believed",
+        "pastparticiple": "Believed"
+    },
+    {
+        "present": "Receive",
+        "past": "Received",
+        "pastparticiple": "Received"
+    },
+    {
+        "present": "Dance",
+        "past": "Danced",
+        "pastparticiple": "Danced"
+    },
+    {
+        "present": "Die",
+        "past": "Died",
+        "pastparticiple": "Died"
+    },
+    {
+        "present": "Enjoy",
+        "past": "Enjoyed",
+        "pastparticiple": "Enjoyed"
+    },
+    {
+        "present": "Hear",
+        "past": "Heard",
+        "pastparticiple": "Heard"
+    },
+    {
+        "present": "Kill",
+        "past": "Killed",
+        "pastparticiple": "Killed"
+    },
+    {
+        "present": "Listen",
+        "past": "Listened",
+        "pastparticiple": "Listened"
+    },
+    {
+        "present": "Look",
+        "past": "Looked",
+        "pastparticiple": "Looked"
+    },
+    {
+        "present": "Lose",
+        "past": "Lost",
+        "pastparticiple": "Lost"
+    },
+    {
+        "present": "Sell",
+        "past": "Sold",
+        "pastparticiple": "Sold"
+    },
+    {
+        "present": "Study",
+        "past": "Studied",
+        "pastparticiple": "Studied"
+    },
+    {
+        "present": "Understand",
+        "past": "Understood",
+        "pastparticiple": "Understood"
+    },
+    {
+        "present": "Convince",
+        "past": "Convinced",
+        "pastparticiple": "Convinced"
+    },
+    {
+        "present": "Burst",
+        "past": "Burst",
+        "pastparticiple": "Burst"
+    },
+    {
+        "present": "Accept",
+        "past": "Accepted",
+        "pastparticiple": "Accepted"
+    },
+    {
+        "present": "Advise",
+        "past": "Advised",
+        "pastparticiple": "Advised"
+    },
+    {
+        "present": "Advertise",
+        "past": "Advertised",
+        "pastparticiple": "Advertised"
+    },
+    {
+        "present": "Become",
+        "past": "Became",
+        "pastparticiple": "Become"
+    },
+    {
+        "present": "Blame",
+        "past": "Blamed",
+        "pastparticiple": "Blamed"
+    },
+    {
+        "present": "Backbite",
+        "past": "Backbit",
+        "pastparticiple": "Backbitten"
+    },
+    {
+        "present": "Disturb",
+        "past": "Disturbed",
+        "pastparticiple": "Disturbed"
+    },
+    {
+        "present": "Collect",
+        "past": "Collected",
+        "pastparticiple": "Collected"
+    },
+    {
+        "present": "Control",
+        "past": "Controlled",
+        "pastparticiple": "Controlled"
+    },
+    {
+        "present": "Criticise",
+        "past": "Criticised",
+        "pastparticiple": "Criticised"
+    },
+    {
+        "present": "Consider",
+        "past": "Considered",
+        "pastparticiple": "Considered"
+    },
+    {
+        "present": "Discuss",
+        "past": "Discussed",
+        "pastparticiple": "Discussed"
+    },
+    {
+        "present": "Divorce",
+        "past": "Divorced",
+        "pastparticiple": "Divorced"
+    },
+    {
+        "present": "Debate",
+        "past": "Debated",
+        "pastparticiple": "Debated"
+    },
+    {
+        "present": "Exercise",
+        "past": "Exercised",
+        "pastparticiple": "Exercised"
+    },
+    {
+        "present": "Practise",
+        "past": "Practised",
+        "pastparticiple": "Practised"
+    },
+    {
+        "present": "Embrace",
+        "past": "Embeaced",
+        "pastparticiple": "Embraced"
+    },
+    {
+        "present": "Emphasise",
+        "past": "Emphasised",
+        "pastparticiple": "Emphasised"
+    },
+    {
+        "present": "Force",
+        "past": "Forced",
+        "pastparticiple": "Forced"
+    },
+    {
+        "present": "Escape",
+        "past": "Escaped",
+        "pastparticiple": "Escaped"
+    },
+    {
+        "present": "Fly",
+        "past": "Flew",
+        "pastparticiple": "Flown"
+    },
+    {
+        "present": "Foster",
+        "past": "Fostered",
+        "pastparticiple": "Fostered"
+    },
+    {
+        "present": "Care",
+        "past": "Cared",
+        "pastparticiple": "Cared"
+    },
+    {
+        "present": "Finish",
+        "past": "Finished",
+        "pastparticiple": "Finished"
+    },
+    {
+        "present": "Gift",
+        "past": "Gifted",
+        "pastparticiple": "Gifted"
+    },
+    {
+        "present": "Guide",
+        "past": "Guided",
+        "pastparticiple": "Guided"
+    },
+    {
+        "present": "Grant",
+        "past": "Granted",
+        "pastparticiple": "Granted"
+    },
+    {
+        "present": "Harm",
+        "past": "Harmed",
+        "pastparticiple": "Harmed"
+    },
+    {
+        "present": "Hate",
+        "past": "Hated",
+        "pastparticiple": "Hated"
+    },
+    {
+        "present": "Hold",
+        "past": "Held",
+        "pastparticiple": "Held"
+    },
+    {
+        "present": "Inform",
+        "past": "Informed",
+        "pastparticiple": "Informed"
+    },
+    {
+        "present": "Insult",
+        "past": "Insulted",
+        "pastparticiple": "Insulted"
+    },
+    {
+        "present": "Invite",
+        "past": "Invited",
+        "pastparticiple": "Invited"
+    },
+    {
+        "present": "Ignore",
+        "past": "Ignored",
+        "pastparticiple": "Ignored"
+    },
+    {
+        "present": "Neglect",
+        "past": "Neglected",
+        "pastparticiple": "Neglected"
+    },
+    {
+        "present": "Avoid",
+        "past": "Avoided",
+        "pastparticiple": "Avoided"
+    },
+    {
+        "present": "Increase",
+        "past": "Increased",
+        "pastparticiple": "Increased"
+    },
+    {
+        "present": "Inspire",
+        "past": "Inspired",
+        "pastparticiple": "Inspired"
+    },
+    {
+        "present": "Identify",
+        "past": "Identified",
+        "pastparticiple": "Identified"
+    },
+    {
+        "present": "Itch",
+        "past": "Itched",
+        "pastparticiple": "Itched"
+    },
+    {
+        "present": "Join",
+        "past": "Joined",
+        "pastparticiple": "Joined"
+    },
+    {
+        "present": "Judge",
+        "past": "Judged",
+        "pastparticiple": "Judged"
+    },
+    {
+        "present": "Kick",
+        "past": "Kicked",
+        "pastparticiple": "Kicked"
+    },
+    {
+        "present": "Kiss",
+        "past": "Kissed",
+        "pastparticiple": "Kissed"
+    },
+    {
+        "present": "Knock",
+        "past": "Knocked",
+        "pastparticiple": "Knocked"
+    },
+    {
+        "present": "Depend",
+        "past": "Depended",
+        "pastparticiple": "Depended"
+    },
+    {
+        "present": "Donate",
+        "past": "Donated",
+        "pastparticiple": "Donated"
+    },
+    {
+        "present": "Expect",
+        "past": "Expected",
+        "pastparticiple": "Expected"
+    },
+    {
+        "present": "Follow",
+        "past": "Followed",
+        "pastparticiple": "Followed"
+    },
+    {
+        "present": "Gossip",
+        "past": "Gossiped",
+        "pastparticiple": "Gossiped"
+    },
+    {
+        "present": "Govern",
+        "past": "Governed",
+        "pastparticiple": "Governed"
+    },
+    {
+        "present": "Guard",
+        "past": "Guarded",
+        "pastparticiple": "Guarded"
+    },
+    {
+        "present": "Graze",
+        "past": "Grazed",
+        "pastparticiple": "Grazed"
+    },
+    {
+        "present": "Hope",
+        "past": "Hoped",
+        "pastparticiple": "Hoped"
+    },
+    {
+        "present": "Hesitate",
+        "past": "Hesitated",
+        "pastparticiple": "Hesitated"
+    },
+    {
+        "present": "Hire",
+        "past": "Hired",
+        "pastparticiple": "Hired"
+    },
+    {
+        "present": "Hide",
+        "past": "Hid",
+        "pastparticiple": "Hidden"
+    },
+    {
+        "present": "Improve",
+        "past": "Improved",
+        "pastparticiple": "Improved"
+    },
+    {
+        "present": "Imagine",
+        "past": "Imagined",
+        "pastparticiple": "Imagined"
+    },
+    {
+        "present": "Inject",
+        "past": "Injected",
+        "pastparticiple": "Injected"
+    },
+    {
+        "present": "Investigate",
+        "past": "Investigated",
+        "pastparticiple": "Investigated"
+    },
+    {
+        "present": "Involve",
+        "past": "Involved",
+        "pastparticiple": "Involved"
+    },
+    {
+        "present": "Brush",
+        "past": "Brushed",
+        "pastparticiple": "Brushed"
+    },
+    {
+        "present": "Learn",
+        "past": "Learnt/learned",
+        "pastparticiple": "Learnt/learned"
+    },
+    {
+        "present": "Maintain",
+        "past": "Maintained",
+        "pastparticiple": "Maintained"
+    },
+    {
+        "present": "Memorise",
+        "past": "Memorised",
+        "pastparticiple": "Memorised"
+    },
+    {
+        "present": "Misbehave",
+        "past": "Misbehaved",
+        "pastparticiple": "Misbehaved"
+    },
+    {
+        "present": "Manage",
+        "past": "Managed",
+        "pastparticiple": "Managed"
+    },
+    {
+        "present": "Mix",
+        "past": "Mixed",
+        "pastparticiple": "Mixed"
+    },
+    {
+        "present": "Need",
+        "past": "Needed",
+        "pastparticiple": "Needed"
+    },
+    {
+        "present": "Notice",
+        "past": "Noticed",
+        "pastparticiple": "Noticed"
+    },
+    {
+        "present": "Open",
+        "past": "Opened",
+        "pastparticiple": "Opened"
+    },
+    {
+        "present": "Close",
+        "past": "Closed",
+        "pastparticiple": "Closed"
+    },
+    {
+        "present": "Lock",
+        "past": "Locked",
+        "pastparticiple": "Locked"
+    },
+    {
+        "present": "Unlock",
+        "past": "Unlocked",
+        "pastparticiple": "Unlocked"
+    },
+    {
+        "present": "Plan",
+        "past": "Planned",
+        "pastparticiple": "Planned"
+    },
+    {
+        "present": "Pray",
+        "past": "Prayed",
+        "pastparticiple": "Prayed"
+    },
+    {
+        "present": "Punish",
+        "past": "Punished",
+        "pastparticiple": "Punished"
+    },
+    {
+        "present": "Push",
+        "past": "Pushed",
+        "pastparticiple": "Pushed"
+    },
+    {
+        "present": "Pull",
+        "past": "Pulled",
+        "pastparticiple": "Pulled"
+    },
+    {
+        "present": "Pain",
+        "past": "Pained",
+        "pastparticiple": "Pained"
+    },
+    {
+        "present": "Quarrel",
+        "past": "Quarreled",
+        "pastparticiple": "Quarreled"
+    },
+    {
+        "present": "Remove",
+        "past": "Removed",
+        "pastparticiple": "Removed"
+    },
+    {
+        "present": "Behave",
+        "past": "Behaved",
+        "pastparticiple": "Behaved"
+    },
+    {
+        "present": "Add",
+        "past": "Added",
+        "pastparticiple": "Added"
+    },
+    {
+        "present": "Answer",
+        "past": "Answered",
+        "pastparticiple": "Answered"
+    },
+    {
+        "present": "Build",
+        "past": "Built",
+        "pastparticiple": "Built"
+    },
+    {
+        "present": "Agree",
+        "past": "Agreed",
+        "pastparticiple": "Agreed"
+    },
+    {
+        "present": "Boil",
+        "past": "Boiled",
+        "pastparticiple": "Boiled"
+    },
+    {
+        "present": "Burn",
+        "past": "Burnt/burned",
+        "pastparticiple": "Burnt/burned"
+    },
+    {
+        "present": "Attend",
+        "past": "Attended",
+        "pastparticiple": "Attended"
+    },
+    {
+        "present": "Arrest",
+        "past": "Arrested",
+        "pastparticiple": "Arrested"
+    },
+    {
+        "present": "Change",
+        "past": "Changed",
+        "pastparticiple": "Changed"
+    },
+    {
+        "present": "Celebrate",
+        "past": "Celebrated",
+        "pastparticiple": "Celebrated"
+    },
+    {
+        "present": "Dream",
+        "past": "Dreamt/dreamed",
+        "pastparticiple": "Dreamt/dreamed"
+    },
+    {
+        "present": "Earn",
+        "past": "Earned",
+        "pastparticiple": "Earned"
+    },
+    {
+        "present": "Remember",
+        "past": "Remembered",
+        "pastparticiple": "Remembered"
+    },
+    {
+        "present": "Remind",
+        "past": "Reminded",
+        "pastparticiple": "Reminded"
+    },
+    {
+        "present": "Forget",
+        "past": "Forgot",
+        "pastparticiple": "Forgot/forgotten"
+    },
+    {
+        "present": "Order",
+        "past": "Ordered",
+        "pastparticiple": "Ordered"
+    },
+    {
+        "present": "Forbid",
+        "past": "Forbade",
+        "pastparticiple": "Forbidden"
+    },
+    {
+        "present": "Gather",
+        "past": "Gathered",
+        "pastparticiple": "Gathered"
+    },
+    {
+        "present": "Face",
+        "past": "Faced",
+        "pastparticiple": "Faced"
+    },
+    {
+        "present": "Complete",
+        "past": "Completed",
+        "pastparticiple": "Completed"
+    },
+    {
+        "present": "Send",
+        "past": "Sent",
+        "pastparticiple": "Sent"
+    },
+    {
+        "present": "Spend",
+        "past": "Spent",
+        "pastparticiple": "Spent"
+    },
+    {
+        "present": "Bend",
+        "past": "Bent",
+        "pastparticiple": "Bent"
+    },
+    {
+        "present": "Doubt",
+        "past": "Doubted",
+        "pastparticiple": "Doubted"
+    },
+    {
+        "present": "Cheat",
+        "past": "Cheated",
+        "pastparticiple": "Cheated"
+    },
+    {
+        "present": "Count",
+        "past": "Counted",
+        "pastparticiple": "Counted"
+    },
+    {
+        "present": "Demand",
+        "past": "Demanded",
+        "pastparticiple": "Demanded"
+    },
+    {
+        "present": "Describe",
+        "past": "Described",
+        "pastparticiple": "Described"
+    }
+]
