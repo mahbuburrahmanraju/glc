@@ -1,0 +1,965 @@
+[
+    {
+        "sentence": "I ____ breakfast every morning.",
+        "option1": "eat",
+        "option2": "ate",
+        "option3": "eating",
+        "option4": "eaten",
+        "correct": "0",
+        "tense": "Simple Present"
+    },
+    {
+        "sentence": "She ____ a book at the moment.",
+        "option1": "reads",
+        "option2": "read",
+        "option3": "reading",
+        "option4": "is reading",
+        "correct": "3",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "They ____ their homework before they went out.",
+        "option1": "had done",
+        "option2": "do",
+        "option3": "have done",
+        "option4": "did",
+        "correct": "0",
+        "tense": "Past Perfect"
+    },
+    {
+        "sentence": "By next month, I ____ in this company for five years.",
+        "option1": "will be working",
+        "option2": "will have worked",
+        "option3": "am working",
+        "option4": "work",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ to the gym every day.",
+        "option1": "goes",
+        "option2": "go",
+        "option3": "going",
+        "option4": "gone",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "They ____ a movie right now.",
+        "option1": "watch",
+        "option2": "watched",
+        "option3": "watching",
+        "option4": "are watching",
+        "correct": "3",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ her keys yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ dinner when you called.",
+        "option1": "was cooking",
+        "option2": "am cooking",
+        "option3": "were cooking",
+        "option4": "cooked",
+        "correct": "0",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "We ____ this movie before.",
+        "option1": "see",
+        "option2": "saw",
+        "option3": "seen",
+        "option4": "have seen",
+        "correct": "3",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "By the time he arrived, they ____ the meeting.",
+        "option1": "finish",
+        "option2": "finished",
+        "option3": "had finished",
+        "option4": "finishes",
+        "correct": "2",
+        "tense": "Past Perfect"
+    },
+    {
+        "sentence": "I ____ this report by next Monday.",
+        "option1": "will complete",
+        "option2": "complete",
+        "option3": "completed",
+        "option4": "completing",
+        "correct": "0",
+        "tense": "Future Simple"
+    },
+    {
+        "sentence": "By the end of this year, we ____ here for ten years.",
+        "option1": "will have lived",
+        "option2": "live",
+        "option3": "will live",
+        "option4": "are living",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ for three hours now.",
+        "option1": "have been waiting",
+        "option2": "waited",
+        "option3": "waits",
+        "option4": "is waiting",
+        "correct": "0",
+        "tense": "Present Perfect Continuous"
+    },
+    {
+        "sentence": "They ____ when the storm hit.",
+        "option1": "were traveling",
+        "option2": "are traveling",
+        "option3": "travel",
+        "option4": "traveled",
+        "correct": "0",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "I ____ coffee every morning.",
+        "option1": "drinks",
+        "option2": "drink",
+        "option3": "drank",
+        "option4": "drinking",
+        "correct": "1",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "She ____ to the store right now.",
+        "option1": "goes",
+        "option2": "go",
+        "option3": "is going",
+        "option4": "going",
+        "correct": "2",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "They ____ the movie last night.",
+        "option1": "see",
+        "option2": "saw",
+        "option3": "seen",
+        "option4": "seeing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ when the alarm went off.",
+        "option1": "slept",
+        "option2": "sleep",
+        "option3": "were sleeping",
+        "option4": "sleeping",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "You ____ to the meeting before it started.",
+        "option1": "had come",
+        "option2": "come",
+        "option3": "coming",
+        "option4": "came",
+        "correct": "0",
+        "tense": "Past Perfect"
+    },
+    {
+        "sentence": "He ____ that car since last year.",
+        "option1": "have had",
+        "option2": "has had",
+        "option3": "had",
+        "option4": "have",
+        "correct": "1",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "By this time next week, I ____ my exams.",
+        "option1": "will have finished",
+        "option2": "finish",
+        "option3": "will finish",
+        "option4": "finishes",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ for two hours.",
+        "option1": "has been reading",
+        "option2": "read",
+        "option3": "reads",
+        "option4": "is reading",
+        "correct": "0",
+        "tense": "Present Perfect Continuous"
+    },
+    {
+        "sentence": "The children ____ to bed by 9 PM every night.",
+        "option1": "goes",
+        "option2": "go",
+        "option3": "went",
+        "option4": "gone",
+        "correct": "1",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "They ____ dinner at 7 PM every evening.",
+        "option1": "have",
+        "option2": "having",
+        "option3": "has",
+        "option4": "had",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "I ____ to call you for days.",
+        "option1": "try",
+        "option2": "tried",
+        "option3": "trying",
+        "option4": "have been trying",
+        "correct": "3",
+        "tense": "Present Perfect Continuous"
+    },
+    {
+        "sentence": "She ____ the job if she had applied.",
+        "option1": "would get",
+        "option2": "will get",
+        "option3": "would have gotten",
+        "option4": "gets",
+        "correct": "2",
+        "tense": "Past Conditional"
+    },
+    {
+        "sentence": "By the end of the year, he ____ a novel.",
+        "option1": "will write",
+        "option2": "will have written",
+        "option3": "writes",
+        "option4": "write",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "We ____ to Paris last summer.",
+        "option1": "went",
+        "option2": "go",
+        "option3": "going",
+        "option4": "gone",
+        "correct": "0",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "They ____ to the park right now.",
+        "option1": "are going",
+        "option2": "is going",
+        "option3": "goes",
+        "option4": "going",
+        "correct": "0",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ her homework before dinner.",
+        "option1": "does",
+        "option2": "did",
+        "option3": "done",
+        "option4": "doing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ to the gym every day.",
+        "option1": "goes",
+        "option2": "going",
+        "option3": "go",
+        "option4": "gone",
+        "correct": "2",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "We ____ a movie at this time yesterday.",
+        "option1": "watched",
+        "option2": "watching",
+        "option3": "were watching",
+        "option4": "watch",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "He ____ his assignment by tomorrow.",
+        "option1": "will finish",
+        "option2": "will have finished",
+        "option3": "finish",
+        "option4": "finishes",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ a book for two hours now.",
+        "option1": "read",
+        "option2": "reads",
+        "option3": "has been reading",
+        "option4": "is reading",
+        "correct": "2",
+        "tense": "Present Perfect Continuous"
+    },
+    {
+        "sentence": "They ____ the project by next week.",
+        "option1": "will complete",
+        "option2": "will have completed",
+        "option3": "complete",
+        "option4": "completed",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "I ____ when you called.",
+        "option1": "sleep",
+        "option2": "was sleeping",
+        "option3": "sleeping",
+        "option4": "sleeps",
+        "correct": "1",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "She ____ the documents by now.",
+        "option1": "should have received",
+        "option2": "should receive",
+        "option3": "should received",
+        "option4": "should receiving",
+        "correct": "0",
+        "tense": "Past Modal"
+    },
+    {
+        "sentence": "We ____ for the bus when it started to rain.",
+        "option1": "waited",
+        "option2": "waits",
+        "option3": "were waiting",
+        "option4": "waiting",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By next month, I ____ in this city for five years.",
+        "option1": "will be living",
+        "option2": "live",
+        "option3": "lived",
+        "option4": "will have lived",
+        "correct": "3",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ his homework already.",
+        "option1": "finish",
+        "option2": "finished",
+        "option3": "finishes",
+        "option4": "has finished",
+        "correct": "3",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "They ____ in the park when it started raining.",
+        "option1": "were walking",
+        "option2": "walked",
+        "option3": "walk",
+        "option4": "walking",
+        "correct": "0",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "I ____ my best to help you.",
+        "option1": "do",
+        "option2": "doing",
+        "option3": "did",
+        "option4": "does",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "She ____ a song when I entered.",
+        "option1": "was singing",
+        "option2": "sings",
+        "option3": "singing",
+        "option4": "sing",
+        "correct": "0",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By the end of this month, they ____ this house.",
+        "option1": "will sell",
+        "option2": "will have sold",
+        "option3": "sells",
+        "option4": "selling",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "We ____ in this neighborhood for ten years.",
+        "option1": "have been living",
+        "option2": "lived",
+        "option3": "live",
+        "option4": "are living",
+        "correct": "0",
+        "tense": "Present Perfect Continuous"
+    },
+    {
+        "sentence": "He ____ a lot of money last year.",
+        "option1": "earned",
+        "option2": "earns",
+        "option3": "earning",
+        "option4": "earn",
+        "correct": "0",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "They ____ for the train at the moment.",
+        "option1": "waits",
+        "option2": "waited",
+        "option3": "wait",
+        "option4": "are waiting",
+        "correct": "3",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ a letter to her friend yesterday.",
+        "option1": "writes",
+        "option2": "wrote",
+        "option3": "writing",
+        "option4": "written",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ to the new policy.",
+        "option1": "agree",
+        "option2": "agreeing",
+        "option3": "agreed",
+        "option4": "agrees",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ a book every month.",
+        "option1": "read",
+        "option2": "reading",
+        "option3": "reads",
+        "option4": "readed",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "By the end of the day, they ____ all the tasks.",
+        "option1": "completed",
+        "option2": "complete",
+        "option3": "will complete",
+        "option4": "will have completed",
+        "correct": "3",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ to the concert right now.",
+        "option1": "goes",
+        "option2": "going",
+        "option3": "is going",
+        "option4": "gone",
+        "correct": "2",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "He ____ his keys yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ dinner when you arrived.",
+        "option1": "had",
+        "option2": "having",
+        "option3": "were having",
+        "option4": "have",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "They ____ their homework by now.",
+        "option1": "should complete",
+        "option2": "should have completed",
+        "option3": "completes",
+        "option4": "completing",
+        "correct": "1",
+        "tense": "Past Modal"
+    },
+    {
+        "sentence": "I ____ to the market every Sunday.",
+        "option1": "go",
+        "option2": "goes",
+        "option3": "going",
+        "option4": "went",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "She ____ a cake when I visited her.",
+        "option1": "bakes",
+        "option2": "baking",
+        "option3": "was baking",
+        "option4": "bake",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By next year, I ____ all the chapters.",
+        "option1": "will have studied",
+        "option2": "will study",
+        "option3": "study",
+        "option4": "studying",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ the news already.",
+        "option1": "hear",
+        "option2": "heard",
+        "option3": "hears",
+        "option4": "hearing",
+        "correct": "1",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "They ____ in the park right now.",
+        "option1": "are jogging",
+        "option2": "jogs",
+        "option3": "jogging",
+        "option4": "jogged",
+        "correct": "0",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ a speech yesterday.",
+        "option1": "give",
+        "option2": "gave",
+        "option3": "gives",
+        "option4": "given",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ to the new rules.",
+        "option1": "adapts",
+        "option2": "adapting",
+        "option3": "adapted",
+        "option4": "adapts",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ a letter to my friend.",
+        "option1": "write",
+        "option2": "writing",
+        "option3": "writes",
+        "option4": "wrote",
+        "correct": "3",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "By next month, they ____ their work.",
+        "option1": "will complete",
+        "option2": "will have completed",
+        "option3": "completes",
+        "option4": "completed",
+        "correct": "1",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ to the office now.",
+        "option1": "goes",
+        "option2": "is going",
+        "option3": "going",
+        "option4": "go",
+        "correct": "1",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "He ____ his wallet yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ the project when the power went out.",
+        "option1": "working",
+        "option2": "were working",
+        "option3": "work",
+        "option4": "works",
+        "correct": "1",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "They ____ the homework by now.",
+        "option1": "should finish",
+        "option2": "should have finished",
+        "option3": "finishes",
+        "option4": "finishing",
+        "correct": "1",
+        "tense": "Past Modal"
+    },
+    {
+        "sentence": "I ____ to the gym every Friday.",
+        "option1": "go",
+        "option2": "goes",
+        "option3": "going",
+        "option4": "went",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "She ____ a dress when I called her.",
+        "option1": "sews",
+        "option2": "sewing",
+        "option3": "was sewing",
+        "option4": "sew",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By the end of this week, I ____ all my tasks.",
+        "option1": "will have completed",
+        "option2": "complete",
+        "option3": "completes",
+        "option4": "completed",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ the report already.",
+        "option1": "writes",
+        "option2": "write",
+        "option3": "has written",
+        "option4": "written",
+        "correct": "2",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "They ____ in the garden right now.",
+        "option1": "are working",
+        "option2": "work",
+        "option3": "works",
+        "option4": "worked",
+        "correct": "0",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ a song yesterday.",
+        "option1": "sings",
+        "option2": "sing",
+        "option3": "sang",
+        "option4": "sung",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ to the guidelines.",
+        "option1": "adheres",
+        "option2": "adhered",
+        "option3": "adhering",
+        "option4": "adhere",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ a new book every month.",
+        "option1": "read",
+        "option2": "reads",
+        "option3": "reading",
+        "option4": "readed",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "By the end of the month, they ____ all the work.",
+        "option1": "will finish",
+        "option2": "finish",
+        "option3": "finishes",
+        "option4": "will have finished",
+        "correct": "3",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ to the meeting now.",
+        "option1": "goes",
+        "option2": "going",
+        "option3": "is going",
+        "option4": "gone",
+        "correct": "2",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "He ____ his phone yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ dinner when the phone rang.",
+        "option1": "ate",
+        "option2": "eat",
+        "option3": "were eating",
+        "option4": "eats",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "They ____ the task by now.",
+        "option1": "should complete",
+        "option2": "should have completed",
+        "option3": "completes",
+        "option4": "completing",
+        "correct": "1",
+        "tense": "Past Modal"
+    },
+    {
+        "sentence": "I ____ to the market every Saturday.",
+        "option1": "go",
+        "option2": "goes",
+        "option3": "going",
+        "option4": "went",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "She ____ a story when I saw her.",
+        "option1": "writes",
+        "option2": "writing",
+        "option3": "was writing",
+        "option4": "write",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By next year, I ____ all the lessons.",
+        "option1": "will have learned",
+        "option2": "learn",
+        "option3": "learns",
+        "option4": "learning",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ the news already.",
+        "option1": "hears",
+        "option2": "heard",
+        "option3": "hearing",
+        "option4": "hear",
+        "correct": "1",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "They ____ in the gym right now.",
+        "option1": "are exercising",
+        "option2": "exercises",
+        "option3": "exercising",
+        "option4": "exercised",
+        "correct": "0",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ a story yesterday.",
+        "option1": "tells",
+        "option2": "tell",
+        "option3": "told",
+        "option4": "telling",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ to the new environment.",
+        "option1": "adapts",
+        "option2": "adapted",
+        "option3": "adapting",
+        "option4": "adapts",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ a letter every month.",
+        "option1": "write",
+        "option2": "writing",
+        "option3": "writes",
+        "option4": "wrote",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "By the end of the year, they ____ all the assignments.",
+        "option1": "will have finished",
+        "option2": "finishes",
+        "option3": "finish",
+        "option4": "finished",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ to the office now.",
+        "option1": "goes",
+        "option2": "going",
+        "option3": "is going",
+        "option4": "go",
+        "correct": "2",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "He ____ his book yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ lunch when the bell rang.",
+        "option1": "had",
+        "option2": "having",
+        "option3": "were having",
+        "option4": "have",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "They ____ the job by now.",
+        "option1": "should complete",
+        "option2": "should have completed",
+        "option3": "completes",
+        "option4": "completing",
+        "correct": "1",
+        "tense": "Past Modal"
+    },
+    {
+        "sentence": "I ____ to the gym every Monday.",
+        "option1": "go",
+        "option2": "goes",
+        "option3": "going",
+        "option4": "went",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "She ____ a picture when I arrived.",
+        "option1": "paints",
+        "option2": "painting",
+        "option3": "was painting",
+        "option4": "paint",
+        "correct": "2",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "By next week, I ____ all the documents.",
+        "option1": "will have submitted",
+        "option2": "submit",
+        "option3": "submits",
+        "option4": "submitted",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "He ____ the message already.",
+        "option1": "reads",
+        "option2": "read",
+        "option3": "reading",
+        "option4": "readed",
+        "correct": "1",
+        "tense": "Present Perfect"
+    },
+    {
+        "sentence": "They ____ in the office right now.",
+        "option1": "are working",
+        "option2": "works",
+        "option3": "working",
+        "option4": "worked",
+        "correct": "0",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "She ____ a lecture yesterday.",
+        "option1": "give",
+        "option2": "gives",
+        "option3": "gave",
+        "option4": "given",
+        "correct": "2",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ to the instructions.",
+        "option1": "adheres",
+        "option2": "adhered",
+        "option3": "adhering",
+        "option4": "adhere",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "I ____ a letter every month.",
+        "option1": "write",
+        "option2": "writing",
+        "option3": "writes",
+        "option4": "wrote",
+        "correct": "0",
+        "tense": "Present Simple"
+    },
+    {
+        "sentence": "By the end of the month, they ____ all the targets.",
+        "option1": "will have achieved",
+        "option2": "achieve",
+        "option3": "achieves",
+        "option4": "achieved",
+        "correct": "0",
+        "tense": "Future Perfect"
+    },
+    {
+        "sentence": "She ____ to the seminar now.",
+        "option1": "goes",
+        "option2": "going",
+        "option3": "is going",
+        "option4": "go",
+        "correct": "2",
+        "tense": "Present Continuous"
+    },
+    {
+        "sentence": "He ____ his keys yesterday.",
+        "option1": "lose",
+        "option2": "lost",
+        "option3": "loses",
+        "option4": "losing",
+        "correct": "1",
+        "tense": "Past Simple"
+    },
+    {
+        "sentence": "We ____ breakfast when the alarm went off.",
+        "option1": "eating",
+        "option2": "were eating",
+        "option3": "eat",
+        "option4": "eats",
+        "correct": "1",
+        "tense": "Past Continuous"
+    },
+    {
+        "sentence": "They ____ the job by now.",
+        "option1": "should complete",
+        "option2": "should have completed",
+        "option3": "completes",
+        "option4": "completing",
+        "correct": "1",
+        "tense": "Past Modal"
+    }
+]
