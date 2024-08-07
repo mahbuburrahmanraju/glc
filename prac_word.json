@@ -1,0 +1,922 @@
+[
+    {
+        "Question": "What is english of \"করা\"",
+        "Answer": "Do"
+    },
+    {
+        "Question": "What is english of \"আসা\"",
+        "Answer": "Go"
+    },
+    {
+        "Question": "What is english of \"যাওয়া\"",
+        "Answer": "Come"
+    },
+    {
+        "Question": "What is english of \"পান করা\"",
+        "Answer": "Drink"
+    },
+    {
+        "Question": "What is english of \"খাওয়া\"",
+        "Answer": "Eat"
+    },
+    {
+        "Question": "What is english of \"পড়া\"",
+        "Answer": "Read"
+    },
+    {
+        "Question": "What is english of \"খেলা করা\"",
+        "Answer": "Play"
+    },
+    {
+        "Question": "What is english of \"গান করা\"",
+        "Answer": "Sing"
+    },
+    {
+        "Question": "What is english of \"লেখা\"",
+        "Answer": "Write"
+    },
+    {
+        "Question": "What is english of \"দেওয়া\"",
+        "Answer": "Give"
+    },
+    {
+        "Question": "What is english of \"সাহায্য করা\"",
+        "Answer": "Help"
+    },
+    {
+        "Question": "What is english of \"রাখা\"",
+        "Answer": "Keep"
+    },
+    {
+        "Question": "What is english of \"চেনা / জানা\"",
+        "Answer": "Know"
+    },
+    {
+        "Question": "What is english of \"দৌড়ানো\"",
+        "Answer": "Run"
+    },
+    {
+        "Question": "What is english of \"পছন্দ করা\"",
+        "Answer": "Choose"
+    },
+    {
+        "Question": "What is english of \"কাজ করা\"",
+        "Answer": "Work"
+    },
+    {
+        "Question": "What is english of \"আঁকা\"",
+        "Answer": "Draw"
+    },
+    {
+        "Question": "What is english of \"শোয়া / শয়ন করা\"",
+        "Answer": "Lie"
+    },
+    {
+        "Question": "What is english of \"বসা\"",
+        "Answer": "Sit"
+    },
+    {
+        "Question": "What is english of \"কথা বলা\"",
+        "Answer": "Speak"
+    },
+    {
+        "Question": "What is english of \"চালানো\"",
+        "Answer": "Drive"
+    },
+    {
+        "Question": "What is english of \"চুরি করা\"",
+        "Answer": "Steal"
+    },
+    {
+        "Question": "What is english of \"বলা'\"",
+        "Answer": "Tell"
+    },
+    {
+        "Question": "What is english of \"কথা বলা\"",
+        "Answer": "Talk"
+    },
+    {
+        "Question": "What is english of \"বলা\"",
+        "Answer": "Say"
+    },
+    {
+        "Question": "What is english of \"ডিম পড়া\"",
+        "Answer": "Lay"
+    },
+    {
+        "Question": "What is english of \"পরিশোধ করা\"",
+        "Answer": "Pay"
+    },
+    {
+        "Question": "What is english of \"ঘুমানো\"",
+        "Answer": "Sleep"
+    },
+    {
+        "Question": "What is english of \"সাঁতার কাটা\"",
+        "Answer": "Swim"
+    },
+    {
+        "Question": "What is english of \"রান্না করা\"",
+        "Answer": "Cook"
+    },
+    {
+        "Question": "What is english of \"নেওয়া / গ্রহণ করা\"",
+        "Answer": "Take"
+    },
+    {
+        "Question": "What is english of \"আনা\"",
+        "Answer": "Bring"
+    },
+    {
+        "Question": "What is english of \"কেনা / ক্রয় করা\"",
+        "Answer": "Buy"
+    },
+    {
+        "Question": "What is english of \"ধরা\"",
+        "Answer": "Catch"
+    },
+    {
+        "Question": "What is english of \"শিক্ষা দেওয়া\"",
+        "Answer": "Teach"
+    },
+    {
+        "Question": "What is english of \"চিন্তা করা\"",
+        "Answer": "Think"
+    },
+    {
+        "Question": "What is english of \"যুদ্ধ করা\"",
+        "Answer": "Fight"
+    },
+    {
+        "Question": "What is english of \"চেষ্টা করা\"",
+        "Answer": "Try"
+    },
+    {
+        "Question": "What is english of \"কান্না করা\"",
+        "Answer": "Cry"
+    },
+    {
+        "Question": "What is english of \"ভাঁজা\"",
+        "Answer": "Fry"
+    },
+    {
+        "Question": "What is english of \"শুকানো\"",
+        "Answer": "Dry"
+    },
+    {
+        "Question": "What is english of \"ঝাড়ু দেওয়া\"",
+        "Answer": "Sweep"
+    },
+    {
+        "Question": "What is english of \"মুছে ফেলা\"",
+        "Answer": "Erase"
+    },
+    {
+        "Question": "What is english of \"মুছা\"",
+        "Answer": "Wipe"
+    },
+    {
+        "Question": "What is english of \"তৈরি করা\"",
+        "Answer": "Make"
+    },
+    {
+        "Question": "What is english of \"পছন্দ করা\"",
+        "Answer": "Like"
+    },
+    {
+        "Question": "What is english of \"ভালোবাসা\"",
+        "Answer": "Love"
+    },
+    {
+        "Question": "What is english of \"সাক্ষাৎ করা\"",
+        "Answer": "Meet"
+    },
+    {
+        "Question": "What is english of \"খাওয়ানো\"",
+        "Answer": "Feed"
+    },
+    {
+        "Question": "What is english of \"পরিচালনা করা / নেতৃত্ব দেওয়া\"",
+        "Answer": "Lead"
+    },
+    {
+        "Question": "What is english of \"অনুভব করা\"",
+        "Answer": "Feel"
+    },
+    {
+        "Question": "What is english of \"রক্তপাত হওয়া\"",
+        "Answer": "Bleed"
+    },
+    {
+        "Question": "What is english of \"দেখানো\"",
+        "Answer": "Show"
+    },
+    {
+        "Question": "What is english of \"বহন করা\"",
+        "Answer": "Carry"
+    },
+    {
+        "Question": "What is english of \"কবর দেওয়া\"",
+        "Answer": "Bury"
+    },
+    {
+        "Question": "What is english of \"তাড়াতাড়ি করা\"",
+        "Answer": "Hurry"
+    },
+    {
+        "Question": "What is english of \"আবেদন করা / প্রয়োগ করা\"",
+        "Answer": "Apply"
+    },
+    {
+        "Question": "What is english of \"সত্যতা যাচাই করা\"",
+        "Answer": "Justify"
+    },
+    {
+        "Question": "What is english of \"হাসা\"",
+        "Answer": "Laugh"
+    },
+    {
+        "Question": "What is english of \"হাঁটা\"",
+        "Answer": "Walk"
+    },
+    {
+        "Question": "What is english of \"ডাকা\"",
+        "Answer": "Call"
+    },
+    {
+        "Question": "What is english of \"কাটা\"",
+        "Answer": "Cut"
+    },
+    {
+        "Question": "What is english of \"পরিষ্কার করা\"",
+        "Answer": "Clean"
+    },
+    {
+        "Question": "What is english of \"মারা / প্রহার করা\"",
+        "Answer": "Beat"
+    },
+    {
+        "Question": "What is english of \"ক্ষমা করা\"",
+        "Answer": "Forgive"
+    },
+    {
+        "Question": "What is english of \"পাওয়া\"",
+        "Answer": "Get"
+    },
+    {
+        "Question": "What is english of \"দেখা\"",
+        "Answer": "See"
+    },
+    {
+        "Question": "What is english of \"মনযোগ দিয়ে দেখা\"",
+        "Answer": "Watch"
+    },
+    {
+        "Question": "What is english of \"ভুল করা\"",
+        "Answer": "Mistake"
+    },
+    {
+        "Question": "What is english of \"উচ্চারণ করা\"",
+        "Answer": "Pronounce"
+    },
+    {
+        "Question": "What is english of \"বানান করা\"",
+        "Answer": "Spell"
+    },
+    {
+        "Question": "What is english of \"জয়লাভ করা\"",
+        "Answer": "Win"
+    },
+    {
+        "Question": "What is english of \"জিজ্ঞাসা করা\"",
+        "Answer": "Ask"
+    },
+    {
+        "Question": "What is english of \"বিশ্বাস করা\"",
+        "Answer": "Believe"
+    },
+    {
+        "Question": "What is english of \"গ্রহণ করা\"",
+        "Answer": "Receive"
+    },
+    {
+        "Question": "What is english of \"নাচা\"",
+        "Answer": "Dance"
+    },
+    {
+        "Question": "What is english of \"মরা / মারা যাওয়া\"",
+        "Answer": "Die"
+    },
+    {
+        "Question": "What is english of \"উপভোগ করা\"",
+        "Answer": "Enjoy"
+    },
+    {
+        "Question": "What is english of \"সোনা\"",
+        "Answer": "Hear"
+    },
+    {
+        "Question": "What is english of \"হত্যা করা\"",
+        "Answer": "Kill"
+    },
+    {
+        "Question": "What is english of \"মনযোগ দিয়ে শোনা\"",
+        "Answer": "Listen"
+    },
+    {
+        "Question": "What is english of \"দেখা / তাকানো\"",
+        "Answer": "Look"
+    },
+    {
+        "Question": "What is english of \"হারানো\"",
+        "Answer": "Lose"
+    },
+    {
+        "Question": "What is english of \"বিক্রি করা\"",
+        "Answer": "Sell"
+    },
+    {
+        "Question": "What is english of \"অধ্যয়ন করা\"",
+        "Answer": "Study"
+    },
+    {
+        "Question": "What is english of \"বুঝা\"",
+        "Answer": "Understand"
+    },
+    {
+        "Question": "What is english of \"বুঝানো\"",
+        "Answer": "Convince"
+    },
+    {
+        "Question": "What is english of \"ফেটে যাওয়া\"",
+        "Answer": "Burst"
+    },
+    {
+        "Question": "What is english of \"গ্রহণ করা\"",
+        "Answer": "Accept"
+    },
+    {
+        "Question": "What is english of \"উপদেশ দেওয়া\"",
+        "Answer": "Advise"
+    },
+    {
+        "Question": "What is english of \"বিজ্ঞাপন দেওয়া\"",
+        "Answer": "Advertise"
+    },
+    {
+        "Question": "What is english of \"হওয়া\"",
+        "Answer": "Become"
+    },
+    {
+        "Question": "What is english of \"দোষারোপ করা\"",
+        "Answer": "Blame"
+    },
+    {
+        "Question": "What is english of \"গিবত করা\"",
+        "Answer": "Backbite"
+    },
+    {
+        "Question": "What is english of \"বিরক্ত করা\"",
+        "Answer": "Disturb"
+    },
+    {
+        "Question": "What is english of \"সংগ্রহ করা\"",
+        "Answer": "Collect"
+    },
+    {
+        "Question": "What is english of \"নিয়ন্ত্রণ করা\"",
+        "Answer": "Control"
+    },
+    {
+        "Question": "What is english of \"সমালোচনা করা\"",
+        "Answer": "Criticise"
+    },
+    {
+        "Question": "What is english of \"বিবেচনা করা\"",
+        "Answer": "Consider"
+    },
+    {
+        "Question": "What is english of \"আলোচনা করা\"",
+        "Answer": "Discuss"
+    },
+    {
+        "Question": "What is english of \"তালাক দেওয়া\"",
+        "Answer": "Divorce"
+    },
+    {
+        "Question": "What is english of \"বিতর্ক করা\"",
+        "Answer": "Debate"
+    },
+    {
+        "Question": "What is english of \"অনুশীলন করা\"",
+        "Answer": "Exercise"
+    },
+    {
+        "Question": "What is english of \"চর্চা করা\"",
+        "Answer": "Practise"
+    },
+    {
+        "Question": "What is english of \"আলিঙ্গন করা\"",
+        "Answer": "Embrace"
+    },
+    {
+        "Question": "What is english of \"গুরুত্বারোপ করা / জোর দেওয়া\"",
+        "Answer": "Emphasise"
+    },
+    {
+        "Question": "What is english of \"গোর করা\"",
+        "Answer": "Force"
+    },
+    {
+        "Question": "What is english of \"পালিয়ে যাওয়া\"",
+        "Answer": "Escape"
+    },
+    {
+        "Question": "What is english of \"উড়া\"",
+        "Answer": "Fly"
+    },
+    {
+        "Question": "What is english of \"লালন পালন করা\"",
+        "Answer": "Foster"
+    },
+    {
+        "Question": "What is english of \"যত্ন করা / পরোয়া করা\"",
+        "Answer": "Care"
+    },
+    {
+        "Question": "What is english of \"শেষ করা\"",
+        "Answer": "Finish"
+    },
+    {
+        "Question": "What is english of \"উপহার দেওয়া\"",
+        "Answer": "Gift"
+    },
+    {
+        "Question": "What is english of \"পথ দেখানো\"",
+        "Answer": "Guide"
+    },
+    {
+        "Question": "What is english of \"মঞ্জুর করা\"",
+        "Answer": "Grant"
+    },
+    {
+        "Question": "What is english of \"ক্ষতি করা\"",
+        "Answer": "Harm"
+    },
+    {
+        "Question": "What is english of \"ঘৃণা করা\"",
+        "Answer": "Hate"
+    },
+    {
+        "Question": "What is english of \"ধরা / অনুষ্ঠিত হওয়া\"",
+        "Answer": "Hold"
+    },
+    {
+        "Question": "What is english of \"জানানো\"",
+        "Answer": "Inform"
+    },
+    {
+        "Question": "What is english of \"অপমান করা\"",
+        "Answer": "Insult"
+    },
+    {
+        "Question": "What is english of \"দাওয়াত দেওয়া\"",
+        "Answer": "Invite"
+    },
+    {
+        "Question": "What is english of \"অবজ্ঞা করা / উপেক্ষা করা\"",
+        "Answer": "Ignore"
+    },
+    {
+        "Question": "What is english of \"অবহেলা করা\"",
+        "Answer": "Neglect"
+    },
+    {
+        "Question": "What is english of \"এড়িয়ে চলা\"",
+        "Answer": "Avoid"
+    },
+    {
+        "Question": "What is english of \"বৃদ্ধি করা\"",
+        "Answer": "Increase"
+    },
+    {
+        "Question": "What is english of \"অনুপ্রাণিত করা\"",
+        "Answer": "Inspire"
+    },
+    {
+        "Question": "What is english of \"শনাক্ত করা\"",
+        "Answer": "Identify"
+    },
+    {
+        "Question": "What is english of \"চুলকানো\"",
+        "Answer": "Itch"
+    },
+    {
+        "Question": "What is english of \"যোগদান করা\"",
+        "Answer": "Join"
+    },
+    {
+        "Question": "What is english of \"বিচার করা\"",
+        "Answer": "Judge"
+    },
+    {
+        "Question": "What is english of \"লাথি মারা\"",
+        "Answer": "Kick"
+    },
+    {
+        "Question": "What is english of \"চুম্বন করা\"",
+        "Answer": "Kiss"
+    },
+    {
+        "Question": "What is english of \"ঠোকা মারা / দেওয়া\"",
+        "Answer": "Knock"
+    },
+    {
+        "Question": "What is english of \"নির্ভর করা\"",
+        "Answer": "Depend"
+    },
+    {
+        "Question": "What is english of \"দান করা\"",
+        "Answer": "Donate"
+    },
+    {
+        "Question": "What is english of \"প্রত্যাশা করা\"",
+        "Answer": "Expect"
+    },
+    {
+        "Question": "What is english of \"অনুসরণ করা\"",
+        "Answer": "Follow"
+    },
+    {
+        "Question": "What is english of \"গল্প করা\"",
+        "Answer": "Gossip"
+    },
+    {
+        "Question": "What is english of \"শাসন করা\"",
+        "Answer": "Govern"
+    },
+    {
+        "Question": "What is english of \"পাহাড়া দেওয়া\"",
+        "Answer": "Guard"
+    },
+    {
+        "Question": "What is english of \"পশু চরানো\"",
+        "Answer": "Graze"
+    },
+    {
+        "Question": "What is english of \"আশা করা\"",
+        "Answer": "Hope"
+    },
+    {
+        "Question": "What is english of \"ইতস্তত করা / দ্বিধা করা\"",
+        "Answer": "Hesitate"
+    },
+    {
+        "Question": "What is english of \"ভাড়া করা\"",
+        "Answer": "Hire"
+    },
+    {
+        "Question": "What is english of \"লুকানো\"",
+        "Answer": "Hide"
+    },
+    {
+        "Question": "What is english of \"উন্নতি সাধন করা\"",
+        "Answer": "Improve"
+    },
+    {
+        "Question": "What is english of \"কল্পনা করা\"",
+        "Answer": "Imagine"
+    },
+    {
+        "Question": "What is english of \"ইঞ্জেকশন দেওয়া\"",
+        "Answer": "Inject"
+    },
+    {
+        "Question": "What is english of \"তদন্ত করা\"",
+        "Answer": "Investigate"
+    },
+    {
+        "Question": "What is english of \"জড়িত করা\"",
+        "Answer": "Involve"
+    },
+    {
+        "Question": "What is english of \"ব্রাশ করা\"",
+        "Answer": "Brush"
+    },
+    {
+        "Question": "What is english of \"শেখা / জ্ঞানার্জন করা\"",
+        "Answer": "Learn"
+    },
+    {
+        "Question": "What is english of \"বজায় রাখা\"",
+        "Answer": "Maintain"
+    },
+    {
+        "Question": "What is english of \"মুখস্ত করা\"",
+        "Answer": "Memorise"
+    },
+    {
+        "Question": "What is english of \"অসদাচরণ\"",
+        "Answer": "Misbehave"
+    },
+    {
+        "Question": "What is english of \"ব্যবস্থা করা\"",
+        "Answer": "Manage"
+    },
+    {
+        "Question": "What is english of \"মিশ্রিত করা / মেশানো\"",
+        "Answer": "Mix"
+    },
+    {
+        "Question": "What is english of \"প্রয়োজন\"",
+        "Answer": "Need"
+    },
+    {
+        "Question": "What is english of \"লক্ষ্য করা\"",
+        "Answer": "Notice"
+    },
+    {
+        "Question": "What is English of\"ডাকাত\"",
+        "Answer": "Robber"
+    },
+    {
+        "Question": "What is english of \"খোলা\"",
+        "Answer": "Open"
+    },
+    {
+        "Question": "What is english of \"বন্ধ করা\"",
+        "Answer": "Close"
+    },
+    {
+        "Question": "What is english of \"তালাবদ্ধ করা\"",
+        "Answer": "Lock"
+    },
+    {
+        "Question": "What is english of \"তালা খোলা\"",
+        "Answer": "Unlock"
+    },
+    {
+        "Question": "What is english of \"পরিকল্পনা করা\"",
+        "Answer": "Plan"
+    },
+    {
+        "Question": "What is english of \"প্রার্থনা করা\"",
+        "Answer": "Pray"
+    },
+    {
+        "Question": "What is english of \"শাস্তি দেওয়া\"",
+        "Answer": "Punish"
+    },
+    {
+        "Question": "What is english of \"ধাক্কা দেওয়া\"",
+        "Answer": "Push"
+    },
+    {
+        "Question": "What is english of \"টানা / টান দেওয়া\"",
+        "Answer": "Pull"
+    },
+    {
+        "Question": "What is english of \"ব্যাথা করা / কষ্ট দেওয়া\"",
+        "Answer": "Pain"
+    },
+    {
+        "Question": "What is english of \"ঝগড়া করা\"",
+        "Answer": "Quarrel"
+    },
+    {
+        "Question": "What is english of \"অপসারণ করা\"",
+        "Answer": "Remove"
+    },
+    {
+        "Question": "What is english of \"আচরণ\"",
+        "Answer": "Behave"
+    },
+    {
+        "Question": "What is english of \"যোগ করা\"",
+        "Answer": "Add"
+    },
+    {
+        "Question": "What is english of \"উত্তর দেওয়া\"",
+        "Answer": "Answer"
+    },
+    {
+        "Question": "What is english of \"নির্মাণ করা\"",
+        "Answer": "Build"
+    },
+    {
+        "Question": "What is english of \"রাজি / সম্মত হওয়া\"",
+        "Answer": "Agree"
+    },
+    {
+        "Question": "What is english of \"ফুটানো / সিদ্ধ করা\"",
+        "Answer": "Boil"
+    },
+    {
+        "Question": "What is english of \"জ্বালানো / পোড়ানো\"",
+        "Answer": "Burn"
+    },
+    {
+        "Question": "What is english of \"উপস্থিত হওয়া\"",
+        "Answer": "Attend"
+    },
+    {
+        "Question": "What is english of \"হাত বুলিয়ে আদর করা\"",
+        "Answer": "Fondle"
+    },
+    {
+        "Question": "What is english of \"অতিথিসেবা\"",
+        "Answer": "Hospitable"
+    },
+    {
+        "Question": "What is english of \"সময়নিষ্ট\"",
+        "Answer": "Punctual"
+    },
+    {
+        "Question": "What is english of \"ঝগড়াটে\"",
+        "Answer": "quarresome"
+    },
+    {
+        "Question": "What is english of \"গ্রেপ্তার করা\"",
+        "Answer": "Arrest"
+    },
+    {
+        "Question": "What is english of \"ভিক্ষা করা / চাওয়া\"",
+        "Answer": "Beg"
+    },
+    {
+        "Question": "What is english of \"বদলানো\"",
+        "Answer": "Change"
+    },
+    {
+        "Question": "What is english of \"উদযাপন করা\"",
+        "Answer": "Celebrate"
+    },
+    {
+        "Question": "What is english of \"স্বপ্ন\"",
+        "Answer": "Dream"
+    },
+    {
+        "Question": "What is english of \"চেনা / চিনতে পারা\"",
+        "Answer": "Recognize"
+    },
+    {
+        "Question": "What is english of \"উপার্জন করা\"",
+        "Answer": "Earn"
+    },
+    {
+        "Question": "What is english of \"স্মরণ করা\"",
+        "Answer": "Remember"
+    },
+    {
+        "Question": "What is english of \"ভাতিজি\"",
+        "Answer": "Niece"
+    },
+    {
+        "Question": "What is english of \"ফুলের তোড়া\"",
+        "Answer": "Bouquet"
+    },
+    {
+        "Question": "What is english of \"ভাতিজা\"",
+        "Answer": "Nephew"
+    },
+    {
+        "Question": "What is english of \"মনে করিয়ে দেওয়া\"",
+        "Answer": "Remind"
+    },
+    {
+        "Question": "What is english of \"ভুলে যাওয়া\"",
+        "Answer": "Forget"
+    },
+    {
+        "Question": "What is english of \"আদেশ করা\"",
+        "Answer": "Order"
+    },
+    {
+        "Question": "What is english of \"নিষেধ করা\"",
+        "Answer": "Forbid"
+    },
+    {
+        "Question": "What is english of \"জরো করা/ জমা করা\"",
+        "Answer": "Gather"
+    },
+    {
+        "Question": "What is english of \"মুখোমুখি\"",
+        "Answer": "Face"
+    },
+    {
+        "Question": "What is english of \"সম্পূর্ণ করা / পূর্ণ করা\"",
+        "Answer": "Complete"
+    },
+    {
+        "Question": "What is english of \"পাঠানো\"",
+        "Answer": "Send"
+    },
+    {
+        "Question": "What is english of \"ব্যয় করা\"",
+        "Answer": "Spend"
+    },
+    {
+        "Question": "What is english of \"বাঁকা করা\"",
+        "Answer": "Bend"
+    },
+    {
+        "Question": "What is english of \"সন্দেহ করা\"",
+        "Answer": "Doubt"
+    },
+    {
+        "Question": "What is english of \"প্রতারণা করা\"",
+        "Answer": "Cheat"
+    },
+    {
+        "Question": "What is english of \"গণনা করা\"",
+        "Answer": "Count"
+    },
+    {
+        "Question": "What is english of \"দাবি করা\"",
+        "Answer": "Demand"
+    },
+    {
+        "Question": "What is english of \"জবাই করা\"",
+        "Answer": "Slaughter"
+    },
+    {
+        "Question": "What is english of \"নাপিত\"",
+        "Answer": "Barber"
+    },
+    {
+        "Question": "What is english of \"জোড়া\"",
+        "Answer": "Pair"
+    },
+    {
+        "Question": "What is english of \"হিজড়া\"",
+        "Answer": "Hermaphrodite"
+    },
+    {
+        "Question": "What is english of \"ঝামেলা\"",
+        "Answer": "Mess"
+    },
+    {
+        "Question": "What is english of \"কষ্ট\"",
+        "Answer": "Trouble"
+    },
+    {
+        "Question": "What is english of \"কোল বালিশ\"",
+        "Answer": "Bloster"
+    },
+    {
+        "Question": "What is english of \"বালিশ\"",
+        "Answer": "Pillow"
+    },
+    {
+        "Question": "What is english of \"গালি দেওয়া\"",
+        "Answer": "Chide"
+    },
+    {
+        "Question": "What is english of \"জুয়া খেলা\"",
+        "Answer": "Gamble"
+    },
+    {
+        "Question": "What is english of \"হুমকি\"",
+        "Answer": "Threat"
+    },
+    {
+        "Question": "What is english of \"দেরি করা\"",
+        "Answer": "Delay"
+    },
+    {
+        "Question": "What is english of \"দালাল\"",
+        "Answer": "Broker"
+    },
+    {
+        "Question": "What is english of \"কৃপণ\"",
+        "Answer": "Miser"
+    },
+    {
+        "Question": "What is english of \"খাদক\"",
+        "Answer": "Gowrmand"
+    },
+    {
+        "Question": "What is english of \"লজ্জা দেওয়া\"",
+        "Answer": "Abash"
+    },
+    {
+        "Question": "What is english of \"ঘামা\"",
+        "Answer": "Sweat"
+    },
+    {
+        "Question": "What is english of \"ছাদ\"",
+        "Answer": "Roof"
+    },
+    {
+        "Question": "What is english of \"হুমকি দেওয়া\"",
+        "Answer": "Threaten"
+    },
+    {
+        "Question": "What is english of \"চিল্লানো\"",
+        "Answer": "Shout"
+    },
+    {
+        "Question": "What is english of \"বর্ণনা করা\"",
+        "Answer": "Describe"
+    }
+]
